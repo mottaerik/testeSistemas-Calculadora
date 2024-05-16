@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1715214469645" clover="3.2.0">
-  <project timestamp="1715214469645" name="All files">
-    <metrics statements="17" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1" elements="23" coveredelements="13" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
-    <file name="operations.ts" path="C:\Users\erik_motta\Documents\Calculator - Base\src\utils\operations.ts">
-      <metrics statements="17" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
+<coverage generated="1715818699861" clover="3.2.0">
+  <project timestamp="1715818699861" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="4" coveredelements="4" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="isDot.ts" path="C:\Users\Motta\Documents\GitHub\testeSistemas-Calculadora\src\utils\isDot.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="11" count="0" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="15" count="0" type="stmt"/>
-      <line num="18" count="1" type="stmt"/>
-      <line num="19" count="0" type="stmt"/>
-      <line num="22" count="1" type="stmt"/>
-      <line num="23" count="4" type="stmt"/>
-      <line num="26" count="1" type="stmt"/>
-      <line num="27" count="0" type="stmt"/>
-      <line num="30" count="1" type="stmt"/>
-      <line num="31" count="0" type="stmt"/>
-      <line num="34" count="1" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="36" count="1" type="stmt"/>
-      <line num="37" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

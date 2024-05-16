@@ -1,3 +1,7 @@
+function sum(a, b) {
+  return a + b;
+}
+
 export const OPERATIONS = {
   "+": sum,
   "-": subtract,
@@ -7,9 +11,6 @@ export const OPERATIONS = {
   AC: allClear,
 };
 
-export function sum(a: number, b: number) {
-  return a + b;
-}
 
 export function subtract(a: number, b: number) {
   return a - b;
@@ -35,3 +36,5 @@ module.exports = sum;
 module.exports = subtract;
 module.exports = multiply;
 module.exports = divide;
+module.exports = equal;
+module.exports = allClear;

@@ -11,3 +11,5 @@ export function calculate(
 
   return String(operation(a, b));
 }
+
+module.exports = calculate;
